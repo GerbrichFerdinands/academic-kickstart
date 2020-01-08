@@ -5,3 +5,7 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://GerbrichFerdinands.github.io/"
