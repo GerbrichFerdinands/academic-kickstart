@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "What I have been working on lately"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -54,7 +54,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  #color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -73,5 +73,10 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ [[project]]
+ title = "hoi"
+ 
+ 
 +++
 

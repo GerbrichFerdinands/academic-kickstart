@@ -23,7 +23,7 @@ bio: My research interests include ..
 interests:
 - Data visualization 
 - Statistics
-- ... 
+- Windsurfing
 
 education:
   courses:
