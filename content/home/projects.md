@@ -42,7 +42,7 @@ subtitle = "What I have been working on lately"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,10 +73,7 @@ subtitle = "What I have been working on lately"
  
  # CSS class.
  css_class = ""
- 
- [[project]]
- title = "hoi"
- 
+
  
 +++
 

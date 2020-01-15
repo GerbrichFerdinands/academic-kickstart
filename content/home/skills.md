@@ -14,22 +14,37 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "80%"
-  
+  icon = "search"
+  icon_pack = "fas"
+  name = "Research"
+  description = "89%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  description = "85%"  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data science "
   description = "80%"  
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "88%"
+
   
 [[feature]]
   icon = "git-alt"
   icon_pack = "fab"
   name = "Git"
-  description = "60%"
+  description = "75%"
+  
 
 +++

@@ -1,19 +1,6 @@
-# Academic Website Builder
-# https://sourcethemes.com/academic/
-#
-# The presence of this file is for compatibility with Blogdown and Forestry.
-# If you are not using those tools, this file may be deleted.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
-
 # Title of your site
-title = "Gerbrich Ferdinands"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://GerbrichFerdinands.github.io/"
 
-# Name of Academic theme folder in `themes/`.
-theme = "academic"
-
-enableEmoji = true

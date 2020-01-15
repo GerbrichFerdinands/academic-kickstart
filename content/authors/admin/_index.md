@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's student, and research assistant Methodology and Statistics
+role: Master's student & research assistant Methodology and Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .. 
 
-interests:
+interests: 
 - Data visualization 
-- Statistics
+- Statistical programming
 - Windsurfing
+- Coffee 
 
 education:
   courses:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:gerbrichferdinands@gmail.com".
+  link: 'mailto:gerbrichferdinands@gmail.com'  # For a direct email link, use "mailto:gerbrichferdinands@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GerbrichF
@@ -50,9 +50,9 @@ social:
   link: https://github.com/GerbrichFerdinands
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,9 +62,10 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Gerbrich Ferdinands is a student in the Research Master program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. 
+Hi! I am a statistician in training, currently enrolled in the research master's program [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://students.uu.nl/en/fss/methodology-and-statistics-for-the-behavioural-biomedical-and-social-sciences), graduating in May 2020. 
 
 {{% alert note %}}
 :wrench: This website is currently under construction 
